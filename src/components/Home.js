@@ -10,13 +10,13 @@ function Home(props) {
   <div>
    <h2 className="sliderHeader">TOP PLAYLISTS</h2>
    <ul className="slider">
-    {playlists.map((playlist) => {
+    {playlists.map((playlist, i) => {
      return (
       <>
-       <div className="sliderItem">
+       <div key={i} className="sliderItem">
         <Link to={`/playlist/${playlist.id}`}>
          {playlist.cover_img && (
-          <img className="img" src={`${playlist.cover_img}`} />
+          <img alt="playlist" className="img" src={`${playlist.cover_img}`} />
          )}
          <li>{playlist.name}</li>
         </Link>
@@ -27,12 +27,14 @@ function Home(props) {
    </ul>
    <h2 className="sliderHeader">TOP SONGS</h2>
    <ul className="slider">
-    {songs.slice(0, 5).map((song) => {
+    {songs.slice(0, 5).map((song, i) => {
      return (
       <>
-       <div className="sliderItem">
+       <div key={i} className="sliderItem">
         <Link to={`/song/${song.id}`}>
-         {song.cover_img && <img className="img" src={`${song.cover_img}`} />}
+         {song.cover_img && (
+          <img alt="song" className="img" src={`${song.cover_img}`} />
+         )}
          <li>{song.name}</li>
         </Link>
        </div>
@@ -42,12 +44,12 @@ function Home(props) {
    </ul>
    <h2 className="sliderHeader">TOP ARTISTS</h2>
    <ul className="slider">
-    {artists.map((artist) => {
+    {artists.map((artist, i) => {
      return (
-      <div className="sliderItem">
+      <div key={i} className="sliderItem">
        <Link to={`/artist/${artist.id}`}>
         {artist.cover_img && (
-         <img className="img" src={`${artist.cover_img}`} />
+         <img alt="artist" className="img" src={`${artist.cover_img}`} />
         )}
         <li>{artist.name}</li>
        </Link>
@@ -58,11 +60,13 @@ function Home(props) {
 
    <h2 className="sliderHeader">TOP ALBUMS</h2>
    <ul className="slider">
-    {albums.map((album) => {
+    {albums.map((album, i) => {
      return (
-      <div className="sliderItem">
+      <div key={i} className="sliderItem">
        <Link to={`/album/${album.id}`}>
-        {album.cover_img && <img className="img" src={`${album.cover_img}`} />}
+        {album.cover_img && (
+         <img alt="album" className="img" src={`${album.cover_img}`} />
+        )}
         <li>{album.name}</li>
        </Link>
       </div>

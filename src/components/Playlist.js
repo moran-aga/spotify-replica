@@ -7,11 +7,13 @@ function Playlist(props) {
  return (
   <div>
    <h1>{playlist.name}</h1>
-   <h3>{playlist.created_at}</h3>
-   {playlist.cover_img && <img className="img" src={`${playlist.cover_img}`} />}
+   <h4>created at: {playlist.created_at}</h4>
+   {playlist.cover_img && (
+    <img alt="playlist" className="img" src={`${playlist.cover_img}`} />
+   )}
    <ul>
-    {playlist.songs.map((song) => {
-     return <li>{song}</li>;
+    {playlist.songs.map((song, i) => {
+     return <li key={i}>{song}</li>;
     })}
    </ul>
   </div>

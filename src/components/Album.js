@@ -8,7 +8,9 @@ function Album(props) {
   <div>
    <h1>{album.name}</h1>
    <h2>{album.artist}</h2>
-   {album.cover_img && <img className="img" src={`${album.cover_img}`} />}
+   {album.cover_img && (
+    <img alt="album-cover" className="img" src={`${album.cover_img}`} />
+   )}
    <ul>
     {album.songs.map((song) => {
      return <li>{song}</li>;

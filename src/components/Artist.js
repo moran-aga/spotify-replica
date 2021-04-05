@@ -7,7 +7,9 @@ function Artist(props) {
  return (
   <div>
    <h1>{artist.name}</h1>
-   {artist.cover_img && <img className="img" src={`${artist.cover_img}`} />}
+   {artist.cover_img && (
+    <img alt="artist" className="img" src={`${artist.cover_img}`} />
+   )}
    <h2>ALBUMS</h2>
    <ul>
     {artist.albums.map((album) => {

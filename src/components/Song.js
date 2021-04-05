@@ -16,6 +16,7 @@ function Song(props) {
     height="315"
     src={song.youtube_link}
     title="YouTube video player"
+    loading="lazy"
     frameborder="0"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
     allowfullscreen
