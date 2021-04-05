@@ -1,0 +1,67 @@
+[
+ {
+  "id": "sdasd32sj",
+  "name": "Pop",
+  "created_at": "2021-05-01",
+  "cover_img": "https://i.imgur.com/9jerWRh.jpeg",
+  "songs": [
+   "Losing My Religion",
+   "The A Team",
+   "Give Me Love",
+   "Lego House",
+   "Shape of You"
+  ]
+ },
+ {
+  "id": "esd3tjj",
+  "name": "Road Trip",
+  "created_at": "2021-01-07",
+  "cover_img": "https://i.imgur.com/owxNYLv.jpeg",
+  "songs": [
+   "Shape of You",
+   "Peaches",
+   "Dust In The Wind",
+   "Save Your Tears",
+   "Never Go Back"
+  ]
+ },
+ {
+  "id": "esd3tjjhvty",
+  "name": "Easy Morning",
+  "created_at": "2020-01-01",
+  "cover_img": "https://i.imgur.com/zCviTLF.jpg",
+  "songs": [
+   "Castle on the Hill",
+   "Peaches",
+   "Galway Girl",
+   "Save Your Tears",
+   "Lego House"
+  ]
+ },
+ {
+  "id": "esd3tjjhvty",
+  "name": "Happy Hits",
+  "created_at": "2021-09-01",
+  "cover_img": "https://i.imgur.com/bUDaXi6.jpeg",
+  "songs": [
+   "The A Team",
+   "Peaches",
+   "Shape of You",
+   "Save Your Tears",
+   "Lego House"
+  ]
+ },
+ {
+  "id": "esd3tjjhvty",
+  "name": "Mood Boster",
+  "created_at": "2021-01-01",
+  "cover_img": "https://i.imgur.com/xUBeRrC.jpeg",
+  "songs": [
+   "The A Team",
+   "Peaches",
+   "Never Go Back",
+   "Save Your Tears",
+   "Lego House"
+  ]
+ }
+]
