@@ -4,6 +4,7 @@ import songs from "../data/songs.json";
 function Song(props) {
  const id = props.match.params.id;
  const song = songs.find((song) => song.id === id);
+ console.log(song);
  return (
   <div>
    <h1>{song.name}</h1>

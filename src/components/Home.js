@@ -10,7 +10,7 @@ function Home(props) {
   <div>
    <h2 className="sliderHeader">TOP PLAYLISTS</h2>
    <ul className="slider">
-    {playlists.map((playlist, i) => {
+    {playlists.slice(0, 5).map((playlist, i) => {
      return (
       <>
        <div key={i} className="sliderItem">
@@ -44,7 +44,7 @@ function Home(props) {
    </ul>
    <h2 className="sliderHeader">TOP ARTISTS</h2>
    <ul className="slider">
-    {artists.map((artist, i) => {
+    {artists.slice(0, 5).map((artist, i) => {
      return (
       <div key={i} className="sliderItem">
        <Link to={`/artist/${artist.id}`}>
@@ -60,7 +60,7 @@ function Home(props) {
 
    <h2 className="sliderHeader">TOP ALBUMS</h2>
    <ul className="slider">
-    {albums.map((album, i) => {
+    {albums.slice(0, 5).map((album, i) => {
      return (
       <div key={i} className="sliderItem">
        <Link to={`/album/${album.id}`}>
