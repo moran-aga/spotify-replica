@@ -4,35 +4,70 @@
   "name": "Justin Bieber",
   "cover_img": "https://i.imgur.com/fvqo5qa.jpg",
   "albums": ["001"],
-  "selected_songs": ["tQ0yjYUFKAE"]
+  "selected_songs": [
+   "tQ0yjYUFKAE",
+   "3yFV9U4qwSw",
+   "ggtraG2lA2A",
+   "LWeiydKl0mU",
+   "xQOO2xGQ1Pc"
+  ]
  },
  {
   "id": "002",
   "name": "The Weeknd",
   "cover_img": "https://i.imgur.com/LviWjf7.jpg",
   "albums": ["002"],
-  "selected_songs": ["XXYlFuWEuKI"]
+  "selected_songs": [
+   "XXYlFuWEuKI",
+   "fHI8X4OXluQ",
+   "dqRZDebPIGs",
+   "1DpH-icPpl0",
+   "oq9AgxHvGjw"
+  ]
  },
  {
   "id": "003",
   "name": "Dennis Lloyd",
   "cover_img": "https://i.imgur.com/7Ybi66J.jpg",
   "albums": ["003"],
-  "selected_songs": ["lhGl9D514Bc", "H03pQeneb5M", "1bGI3fwz40c"]
+  "selected_songs": [
+   "lhGl9D514Bc",
+   "H03pQeneb5M",
+   "1bGI3fwz40c",
+   "CIqiB9zSLmM",
+   "qUL1Ng3dj0I"
+  ]
  },
  {
   "id": "004",
   "name": "R.E.M",
   "cover_img": "https://i.imgur.com/Uh5gP5t.jpg",
   "albums": ["004"],
-  "selected_songs": ["xwtdhWltSIg"]
+  "selected_songs": [
+   "xwtdhWltSIg",
+   "0XhYEqz2Hu8",
+   "QqVI_CHlFAI",
+   "oC7er_6dpsI",
+   "YYOKMUTTDdA"
+  ]
  },
  {
   "id": "005",
   "name": "Ed Sheeran",
   "cover_img": "https://i.imgur.com/DX8yUtd.jpg",
   "albums": ["tig4j6r", "hth6fgh"],
-  "selected_songs": ["UAWcs5H-qgQ", "FOjdXSrtUxA", "JGwWNGJdvx8"]
+  "selected_songs": [
+   "UAWcs5H-qgQ",
+   "FOjdXSrtUxA",
+   "JGwWNGJdvx8",
+   "K0ibBPhiaG0",
+   "87gWaABqGYs",
+   "c4BLVznuWnU",
+   "OjGrcJ4lZCc",
+   "2Vv-BfVoq4g",
+   "G2fOum_KWQU",
+   "A_af256mnTE"
+  ]
  },
  {
   "id": "006",

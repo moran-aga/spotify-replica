@@ -4,42 +4,78 @@
   "name": "Justice",
   "artist": "Justin Bieber",
   "cover_img": "https://i.imgur.com/Ganpvrf.png",
-  "songs": ["tQ0yjYUFKAE"]
+  "songs": [
+   "tQ0yjYUFKAE",
+   "3yFV9U4qwSw",
+   "ggtraG2lA2A",
+   "LWeiydKl0mU",
+   "xQOO2xGQ1Pc"
+  ]
  },
  {
   "id": "002",
   "name": "After Hours",
   "artist": "The Weeknd",
   "cover_img": "https://i.imgur.com/RTicBwP.jpg",
-  "songs": ["XXYlFuWEuKI"]
+  "songs": [
+   "XXYlFuWEuKI",
+   "fHI8X4OXluQ",
+   "dqRZDebPIGs",
+   "1DpH-icPpl0",
+   "oq9AgxHvGjw"
+  ]
  },
  {
   "id": "003",
   "name": "Exident",
   "artist": "Dennis Lloyd",
   "cover_img": "https://i.imgur.com/VwgSf1i.jpg",
-  "songs": ["lhGl9D514Bc", "H03pQeneb5M", "1bGI3fwz40c"]
+  "songs": [
+   "lhGl9D514Bc",
+   "H03pQeneb5M",
+   "1bGI3fwz40c",
+   "CIqiB9zSLmM",
+   "qUL1Ng3dj0I"
+  ]
  },
  {
   "id": "hth6fgh",
   "name": "+",
   "artist": "Ed Sheeran",
   "cover_img": "https://i.imgur.com/Fuek9aR.png",
-  "songs": ["UAWcs5H-qgQ", "FOjdXSrtUxA", "c4BLVznuWnU"]
+  "songs": [
+   "UAWcs5H-qgQ",
+   "FOjdXSrtUxA",
+   "c4BLVznuWnU",
+   "G2fOum_KWQU",
+   "A_af256mnTE"
+  ]
  },
  {
   "id": "tig4j6r",
   "name": "÷",
   "artist": "Ed Sheeran",
   "cover_img": "https://i.imgur.com/RcVg3HB.png",
-  "songs": ["JGwWNGJdvx8", "K0ibBPhiaG0", "87gWaABqGYs"]
+  "songs": [
+   "JGwWNGJdvx8",
+   "K0ibBPhiaG0",
+   "87gWaABqGYs",
+   "OjGrcJ4lZCc",
+   "2Vv-BfVoq4g"
+  ]
  },
  {
   "id": "004",
   "name": "Out Of Time",
   "artist": "R.E.M",
   "cover_img": "https://i.imgur.com/Tf2H6yT.jpg",
-  "songs": ["xwtdhWltSIg"]
+  "songs": [
+   "xwtdhWltSIg",
+   "0XhYEqz2Hu8",
+   "QqVI_CHlFAI",
+   "oC7er_6dpsI",
+   "YYOKMUTTDdA"
+  ]
  },
  {
   "id": "005",
