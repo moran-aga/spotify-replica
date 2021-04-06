@@ -3,88 +3,42 @@
   "id": "001",
   "name": "Justin Bieber",
   "cover_img": "https://i.imgur.com/fvqo5qa.jpg",
-  "albums": [
-   "My World",
-   "Believe",
-   "Under The Mistletoe",
-   "Journals",
-   "Purpose",
-   "Changes",
-   "Justice"
-  ],
-  "selected_songs": ["Lonely", "Holy", "Peaches", "Anyone", "Hold On"]
+  "albums": ["001"],
+  "selected_songs": ["tQ0yjYUFKAE"]
  },
  {
   "id": "002",
   "name": "The Weeknd",
   "cover_img": "https://i.imgur.com/LviWjf7.jpg",
-  "albums": [
-   "After Hours",
-   "My Dear Melancholy",
-   "Starboy",
-   "Beauty Behind The Madness",
-   "Kiss Land",
-   "Trilogy"
-  ],
-  "selected_songs": [
-   "Save Your Time",
-   "Blinding Lights",
-   "The Hills",
-   "In Your Eyes",
-   "Starboy"
-  ]
+  "albums": ["002"],
+  "selected_songs": ["XXYlFuWEuKI"]
  },
  {
   "id": "003",
   "name": "Dennis Lloyd",
   "cover_img": "https://i.imgur.com/7Ybi66J.jpg",
-  "albums": [
-   "Anxious",
-   "Alien",
-   "Unfaithful",
-   "Wild West",
-   "Never Go Back",
-   "Exident",
-   "Nevermind",
-   "leftovers"
-  ],
-  "selected_songs": ["Nevermind", "Alien", "Anxious", "Never Go Back", "Playa"]
+  "albums": ["003"],
+  "selected_songs": ["lhGl9D514Bc", "H03pQeneb5M", "1bGI3fwz40c"]
  },
  {
   "id": "004",
   "name": "R.E.M",
   "cover_img": "https://i.imgur.com/Uh5gP5t.jpg",
-  "albums": [
-   "Collapse Into Now",
-   "Accelerate",
-   "Around The Sun",
-   "Reveal",
-   "Up",
-   "Monster"
-  ],
-  "selected_songs": [
-   "Losing My Religion",
-   "Everybody Hurts",
-   "Shiny Happy Pepole",
-   "Man On The Moon",
-   "Its The End Of The World"
-  ]
+  "albums": ["004"],
+  "selected_songs": ["xwtdhWltSIg"]
  },
  {
   "id": "005",
+  "name": "Ed Sheeran",
+  "cover_img": "https://i.imgur.com/DX8yUtd.jpg",
+  "albums": ["tig4j6r", "hth6fgh"],
+  "selected_songs": ["UAWcs5H-qgQ", "FOjdXSrtUxA", "JGwWNGJdvx8"]
+ },
+ {
+  "id": "006",
   "name": "Kansas",
   "cover_img": "https://i.imgur.com/xZ8bLFn.jpg",
-  "albums": [
-   "Point Of Know Return",
-   "Beyond The Illusion",
-   "The Absence of Presence",
-   "Wheels and Other Rerities"
-  ],
-  "selected_songs": [
-   "Dust In The Wind",
-   "Carry On Wayward Son",
-   "Point of Know Return",
-   "Play The Game Tonight"
-  ]
+  "albums": ["005"],
+  "selected_songs": ["tH2w6Oxx0kQ"]
  }
 ]

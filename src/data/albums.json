@@ -4,89 +4,48 @@
   "name": "Justice",
   "artist": "Justin Bieber",
   "cover_img": "https://i.imgur.com/Ganpvrf.png",
-  "songs": [
-   "2 Much",
-   "Deserve You",
-   "As I Am",
-   "Holy",
-   "Unstable",
-   "Die for You",
-   "Hold On",
-   "Somebody",
-   "Ghost",
-   "Peaches",
-   "Love You Different",
-   "Loved by You",
-   "Anyone",
-   "Lonely"
-  ]
+  "songs": ["tQ0yjYUFKAE"]
  },
  {
   "id": "002",
   "name": "After Hours",
   "artist": "The Weeknd",
   "cover_img": "https://i.imgur.com/RTicBwP.jpg",
-  "songs": [
-   "Alone Again",
-   "Too Late",
-   "Hardest to Love",
-   "Scared to Live",
-   "Snowchild",
-   "Escape from LA",
-   "Heartless",
-   "Faith",
-   "Blinding Lights",
-   "In Your Eyes",
-   "Save Your Tears",
-   "Repeat After Me",
-   "After Hours",
-   "Until I Bleed Out"
-  ]
+  "songs": ["XXYlFuWEuKI"]
  },
  {
   "id": "003",
   "name": "Exident",
   "artist": "Dennis Lloyd",
   "cover_img": "https://i.imgur.com/VwgSf1i.jpg",
-  "songs": ["Never Go Back", "Introducción", "Aura", "GFY", "Runaway"]
+  "songs": ["lhGl9D514Bc", "H03pQeneb5M", "1bGI3fwz40c"]
+ },
+ {
+  "id": "hth6fgh",
+  "name": "+",
+  "artist": "Ed Sheeran",
+  "cover_img": "https://i.imgur.com/Fuek9aR.png",
+  "songs": ["UAWcs5H-qgQ", "FOjdXSrtUxA", "c4BLVznuWnU"]
+ },
+ {
+  "id": "tig4j6r",
+  "name": "÷",
+  "artist": "Ed Sheeran",
+  "cover_img": "https://i.imgur.com/RcVg3HB.png",
+  "songs": ["JGwWNGJdvx8", "K0ibBPhiaG0", "87gWaABqGYs"]
  },
  {
   "id": "004",
   "name": "Out Of Time",
   "artist": "R.E.M",
   "cover_img": "https://i.imgur.com/Tf2H6yT.jpg",
-  "songs": [
-   "Radio Song",
-   "Losing My Religion",
-   "Low",
-   "Near Wild Heaven",
-   "Endgame",
-   "Shiny Happy World",
-   "Belong",
-   "Half A World Away",
-   "Texarkana",
-   "Country Feedback",
-   "Me In Honey"
-  ]
+  "songs": ["xwtdhWltSIg"]
  },
  {
   "id": "005",
   "name": "Point of Know Return",
   "artist": "Kansas",
   "cover_img": "https://i.imgur.com/63ZBh3e.jpg",
-  "songs": [
-   "Point of Know Return",
-   "Paradox",
-   "The Spider",
-   "Portrait (He Knew)",
-   "Closet Chronicles",
-   "Shiny Happy World",
-   "Lightning's Hand",
-   "Dust in the Wind",
-   "Sparks of the Tempest",
-   "Nobody's Home",
-   "Hopelessly Human",
-   "Sparks of the Tempest"
-  ]
+  "songs": ["tH2w6Oxx0kQ"]
  }
 ]
