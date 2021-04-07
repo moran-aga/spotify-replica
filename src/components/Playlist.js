@@ -2,10 +2,12 @@ import React from "react";
 import playlists from "../data/playlists.json";
 import songs from "../data/songs.json";
 import { Link } from "react-router-dom";
+const queryString = require("query-string");
 
 function Playlist(props) {
  const id = props.match.params.id;
  const playlist = playlists.find((playlist) => playlist.id === id);
+ const parsed = queryString.parse(props.location.search);
 
  return (
   <div>

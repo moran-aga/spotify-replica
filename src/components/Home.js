@@ -27,20 +27,23 @@ function Home(props) {
    </ul>
    <h2 className="sliderHeader">TOP SONGS</h2>
    <ul className="slider">
-    {songs.slice(0, 5).map((song, i) => {
-     return (
-      <>
-       <div key={i} className="sliderItem">
-        <Link to={`/song/${song.id}`}>
-         {song.cover_img && (
-          <img alt="song" className="img" src={`${song.cover_img}`} />
-         )}
-         <li>{song.name}</li>
-        </Link>
-       </div>
-      </>
-     );
-    })}
+    {songs
+     .sort((a, b) => b.views - a.views)
+     .slice(0, 5)
+     .map((song, i) => {
+      return (
+       <>
+        <div key={i} className="sliderItem">
+         <Link to={`/song/${song.id}`}>
+          {song.cover_img && (
+           <img alt="song" className="img" src={`${song.cover_img}`} />
+          )}
+          <li>{song.name}</li>
+         </Link>
+        </div>
+       </>
+      );
+     })}
    </ul>
    <h2 className="sliderHeader">TOP ARTISTS</h2>
    <ul className="slider">

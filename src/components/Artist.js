@@ -3,9 +3,12 @@ import artists from "../data/artists.json";
 import albums from "../data/albums.json";
 import songs from "../data/songs.json";
 import { Link } from "react-router-dom";
+const queryString = require("query-string");
 
-function Artist(props) {
- const id = props.match.params.id;
+function Artist({ match, location }) {
+ console.log(location.search);
+
+ const id = match.params.id;
  const artist = artists.find((artist) => artist.id === id);
  return (
   <div>
